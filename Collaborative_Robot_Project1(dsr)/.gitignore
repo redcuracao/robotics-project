@@ -1,0 +1,17 @@
+bottail-firebase-adminsdk-fbsvc-fdc208f1d1.json
+# ROS2 / colcon
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+
+src/doosan-robot2/*
