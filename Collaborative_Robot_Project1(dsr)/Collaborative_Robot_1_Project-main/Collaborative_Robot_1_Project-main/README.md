@@ -52,25 +52,25 @@
 
 ## 🎞️ Flow Chart
 
-![flow-chart](/bottail_monitoring/public/flow_chart.png)
+![flow-chart](bottail_monitoring/public/flow_chart.png)
 
 <br>
 
 ## 📝 System Architecture
 
-![SA](/bottail_monitoring/public/system_architecture.png)
+![SA](bottail_monitoring/public/system_architecture.png)
 
 <br>
 
 ## 🔖 Node Architecture
 
-![SA](/bottail_monitoring/public/system_architecture.png)
+![SA](bottail_monitoring/public/system_architecture.png)
 
 <br>
 
 ## 🎥 시연 영상
 
-[![영상 제목](/bottail_monitoring/public/Tumbnail.PNG)](https://youtu.be/DPY0LymRcAk?si=c5qC5KyUh3cyv2LY)
+[![영상 제목](bottail_monitoring/public/Tumbnail.PNG)](https://youtu.be/DPY0LymRcAk?si=c5qC5KyUh3cyv2LY)
 
 <br>
 
