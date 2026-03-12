@@ -1,6 +1,6 @@
 # AI 비전과 로봇을 활용한 무인 편의점 자동 진열·구매 보조 시스템
 
-![Tumbnail](/assets/Thumbnail.png)
+![Tumbnail](assets/Thumbnail.png)
 
 <br>
 
@@ -61,25 +61,25 @@
 
 ### 1. 자동 진열 시스템 (YOLO 기반 실시간 감시를 통해 특정 음료 모두 소진시 자동 보충)
 
-![자동 진열 시스템](/assets/function1.png)
+![자동 진열 시스템](assets/function1.png)
 
 ### 2. Wake-up Word 기반 음성 분기 제어 (Wake-up Word를 통한 명령어에 따른 명령 분기)
 
-![Wake-up Word 기반 음성 분기 제어](/assets/function2.png)
+![Wake-up Word 기반 음성 분기 제어](assets/function2.png)
 
 ### 3. 음성 명령 기반 진열 시스템 (STT를 활용한 특정 음료 재고 보충 명령)
 
-![음성 명령 기반 진열 시스템](/assets/function3.png)
+![음성 명령 기반 진열 시스템](assets/function3.png)
 
 ### 4. 계산 및 연령 제한 시스템 (상품 인식 및 얼굴 나이 판별을 통해 판매 여부 판단)
 
-![계산 및 연령 제한 시스템](/assets/function4.png)
+![계산 및 연령 제한 시스템](assets/function4.png)
 
 <br>
 
 ## 🎥 최종 시연 영상
 
-[![최종 시연 영상](/assets/Thumbnail.png)](https://youtu.be/ERzN2Vt0Vt8?si=svvrOZ7Syg_6tWn0)
+[![최종 시연 영상](/assets/Thumbnail.png)]([https://youtu.be/ERzN2Vt0Vt8?si=svvrOZ7Syg_6tWn0](https://www.youtube.com/watch?v=dw92KkZqCww))
 
 <br>
 
