@@ -70,7 +70,7 @@
 
 ## 🎥 시연 영상
 
-[![영상 제목](bottail_monitoring/public/Tumbnail.PNG)](https://youtu.be/DPY0LymRcAk?si=c5qC5KyUh3cyv2LY)
+[![영상 제목](bottail_monitoring/public/Tumbnail.PNG)]([https://youtu.be/DPY0LymRcAk?si=c5qC5KyUh3cyv2LY](https://www.youtube.com/watch?v=ABcxf3gpRvw))
 
 <br>
 
