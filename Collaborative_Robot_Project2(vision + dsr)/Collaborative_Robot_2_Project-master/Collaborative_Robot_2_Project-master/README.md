@@ -79,7 +79,7 @@
 
 ## 🎥 최종 시연 영상
 
-[![최종 시연 영상](/assets/Thumbnail.png)]([https://youtu.be/ERzN2Vt0Vt8?si=svvrOZ7Syg_6tWn0](https://www.youtube.com/watch?v=dw92KkZqCww))
+[![최종 시연 영상](assets/Thumbnail.png)]([https://youtu.be/ERzN2Vt0Vt8?si=svvrOZ7Syg_6tWn0](https://www.youtube.com/watch?v=dw92KkZqCww))
 
 <br>
 
