@@ -1,7 +1,7 @@
 # 두산 협동로봇(M0609) 기반 칵테일 제조 로봇 프로젝트
 
 ![Tumbnail](/bottail_monitoring/public/Tumbnail.PNG)
-![Tumbnail](/bottail_monitoring/public/ui.png)
+![Tumbnail](bottail_monitoring/public/ui.png)
 
 <br>
 
