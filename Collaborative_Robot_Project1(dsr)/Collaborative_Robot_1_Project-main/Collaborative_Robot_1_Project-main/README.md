@@ -9,19 +9,17 @@
 
 ### 1. [프로젝트 개요](#-프로젝트-개요)
 
-### 2. [팀 구성 및 역할](#-팀-구성-및-역할)
+### 2. [사용 기술](#-사용-기술)
 
-### 3. [사용 기술](#-사용-기술)
+### 3. [Flow Chart](#-Flow-Chart)
 
-### 4. [Flow Chart](#-Flow-Chart)
+### 4. [System Architecture](#-System-Architecture)
 
-### 5. [System Architecture](#-System-Architecture)
+### 5. [Node Architecture](#-Node-Architecture)
 
-### 6. [Node Architecture](#-Node-Architecture)
+### 6. [시연 영상](#-시연-영상)
 
-### 7. [시연 영상](#-시연-영상)
-
-### 8. [평가 및 피드백](#-평가-및-피드백)
+### 7. [평가 및 피드백](#-평가-및-피드백)
 
 <br>
 
@@ -34,20 +32,10 @@
 
 #### 📆 개발 기간 : 2025년 12월 08일 ~ 2025년 12월 19일
 
-#### 📜 관련 문서 노션 링크: [노션링크](https://kaput-promise-bd0.notion.site/1-F3-2c3f99f5d39380a5a056cf10c2b780c3?source=copy_link)
 
 <br>
 
-## 🧑‍🤝‍🧑 팀 구성 및 역할
 
-|  조원  | 역할 |                             담당 업무                              |
-| :----: | :--: | :----------------------------------------------------------------: |
-| 김갑민 | 팀장 | 모니터링 UI 제작, UI-로봇 동작 기능 연결 통합, 로봇 이동 모션 제작 |
-| 권수인 | 팀원 |                              PPT 제작                              |
-| 백수안 | 팀원 |                       동작 노드 제작 및 통합                       |
-| 이용우 | 팀원 |               shaking, stirring 모션 제작, PPT 제작                |
-
-<br>
 
 ## 🕹️ 사용 기술
 
